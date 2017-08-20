@@ -2,4 +2,4 @@
 
 Coming soon.
 
-![Fabio Lobo](assets/img/fabiolobo.svg)
+![Fabio Lobo](https://www.alkteia.net/assets/img/fabiolobo.svg)
