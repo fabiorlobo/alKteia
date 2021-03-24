@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" preserveAspectRatio="xMinYMin meet">
+<title>LinkedIn</title>
+  <g id="Group_50" data-name="Group 50" transform="translate(-457.513 -73.826)">
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="15" cy="15" r="15" transform="translate(457.513 73.826)" fill="#0084b1"/>
+    <path id="Path_36" data-name="Path 36" d="M467.144,81.763a1.7,1.7,0,1,0,1.693,1.7A1.707,1.707,0,0,0,467.144,81.763Z" fill="#fff"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="2.927" height="9.43" rx="0.468" transform="translate(465.672 86.458)" fill="#fff"/>
+    <path id="Path_37" data-name="Path 37" d="M476.369,86.217h-.511a2.86,2.86,0,0,0-2.352,1.229,2.72,2.72,0,0,0-.157.252l-.026,0V86.652a.194.194,0,0,0-.194-.194h-2.484a.194.194,0,0,0-.194.194v9.042a.194.194,0,0,0,.194.194h2.538a.194.194,0,0,0,.194-.195V90.471A1.655,1.655,0,0,1,475,88.808a1.642,1.642,0,0,1,1.661,1.642v5.245a.194.194,0,0,0,.194.194H479.4a.194.194,0,0,0,.194-.194V89.442h0A3.224,3.224,0,0,0,476.369,86.217Z" fill="#fff"/>
+  </g>
+</svg>

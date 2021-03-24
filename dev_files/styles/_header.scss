@@ -1,0 +1,39 @@
+.header {
+	background-image: url(../images/lone-wolf.svg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	overflow: hidden;
+
+	@media (max-width: 500px) {
+		background-position: 75% 0;
+		min-height: 600px;
+	}
+
+	@media (min-width: 501px) {
+		background-position: 50% 0;
+		min-height: 600px;
+	}
+
+	@media (max-height: 600px) {
+		min-height: 500px;
+	}
+
+	@media (min-height: 601px) {
+		min-height: 600px;
+	}
+
+	&__logo {
+		font-size: 0;
+		height: 30px;
+		line-height: 1;
+		margin: $colMargin 0 0 0;
+		max-width: 95px;
+
+		path[fill*=fff] {
+			@media (max-width: 500px) {
+				fill: $colorText;
+			}
+		}
+	}
+}

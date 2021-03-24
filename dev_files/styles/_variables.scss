@@ -1,0 +1,21 @@
+/* * * * * * * * * * * * * *
+	COLORS
+* * * * * * * * * * * * * */
+
+$colorText: #353D49;
+$colorLink: #0090D8;
+
+/* * * * * * * * * * * * * *
+	SIZES
+* * * * * * * * * * * * * */
+
+$colMargin: 30px;
+$colMargin2x: $colMargin * 2;
+$colMargin3x: $colMargin * 3;
+$colMargin4x: $colMargin * 4;
+$colMarginHalf: $colMargin / 2;
+$colMarginThird: $colMargin / 3;
+$colMarginQuarter: $colMargin / 4;
+
+$siteMaxWidth: 1110px + $colMargin2x;
+$siteMinWidth: 300px + $colMargin2x;

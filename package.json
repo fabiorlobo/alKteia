@@ -1,0 +1,24 @@
+{
+	"name": "alKteia",
+	"version": "1.0.0",
+	"description": "alKteia site",
+	"author": "Fabio Lobo",
+	"license": "SEE LICENSE IN README.MD",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fabiorlobo/alkteia"
+	},
+	"devDependencies": {
+		"browser-sync": "^2.26.14",
+		"del": "^6.0.0",
+		"gulp": "^4.0.2",
+		"gulp-htmlmin": "^5.0.1",
+		"gulp-imagemin": "^7.1.0",
+		"gulp-open": "^3.0.1",
+		"gulp-plumber": "^1.2.1",
+		"gulp-rename": "^2.0.0",
+		"gulp-sass": "^4.1.0",
+		"gulp-uglify": "^3.0.2",
+		"imagemin-optipng": "^8.0.0"
+	}
+}

@@ -1,0 +1,43 @@
+.main {
+	&__section {
+		position: relative;
+		
+		@media (max-width: 768px) {
+			padding-bottom: $colMargin2x;
+			padding-top: $colMargin2x;
+		}
+	
+		@media (min-width: 769px) {
+			padding-bottom: $colMargin4x;
+			padding-top: $colMargin4x;
+		}
+
+		&+&:not(.about) {
+			padding-top: 0;
+		}
+
+		&__title {
+			font-weight: 300;
+			margin: 0 0 $colMargin2x 0;
+		
+			@media (max-width: 480px) {
+				font-size: 1.750rem;
+				line-height: 2rem;
+			}
+		
+			@media (min-width: 481px) {
+				font-size: 2.250rem;
+				line-height: 2.500rem;
+			}
+
+			&::before {
+				display: inline-block;
+				color: $colorLink;
+				content: "]";
+				font-family: 'Circular STD', sans-serif;
+				font-weight: bold;
+				padding-right: 3px;
+			}
+		}
+	}
+}

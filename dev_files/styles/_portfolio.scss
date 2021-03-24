@@ -1,0 +1,18 @@
+.portfolio {
+	font-size: 1.250rem;
+	line-height: 1.500rem;
+
+	&__icon {
+		display: block;
+		height: 60px;
+		width: 60px;
+	}
+
+	p {
+		margin: $colMargin 0;
+	}
+
+	&__link {
+		font-family: 'Circular STD', sans-serif;
+	}
+}

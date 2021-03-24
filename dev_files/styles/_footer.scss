@@ -1,0 +1,11 @@
+.footer {
+	align-items: center;
+	display: flex;
+	height: 60px;
+	justify-content: space-between;
+
+	&__copyright {
+		font-size: 1.250rem;
+		line-height: 1.500rem;
+	}
+}

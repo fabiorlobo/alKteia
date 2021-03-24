@@ -1,0 +1,27 @@
+<svg id="Group_39" data-name="Group 39" xmlns="http://www.w3.org/2000/svg" width="55.397" height="60" viewBox="0 0 55.397 60" preserveAspectRatio="xMinYMin meet">
+<title>WOWF</title>
+  <g id="Group_13" data-name="Group 13" transform="translate(0 0)">
+    <path id="Path_20" data-name="Path 20" d="M161.261,119.366l-15.108-15.108v32.3l27.7,27.7V106.776Z" transform="translate(-146.153 -104.258)" fill="#ccc"/>
+    <path id="Path_21" data-name="Path 21" d="M206.852,104.258l-15.108,15.108-12.59-12.59v57.482l27.7-27.7Z" transform="translate(-151.455 -104.258)" fill="#e6e6e6"/>
+  </g>
+  <g id="Group_19" data-name="Group 19" transform="translate(2.518 6.079)">
+    <g id="Group_16" data-name="Group 16" transform="translate(0 0)">
+      <g id="Group_14" data-name="Group 14" transform="translate(0 12.59)">
+        <path id="Path_22" data-name="Path 22" d="M175.538,140.3l-6.3-6.3-6.3,6.3-6.3,6.3,6.3,6.3,6.3,6.3,6.3-6.3,6.3-6.3Z" transform="translate(-150.358 -127.705)" fill="#ccc"/>
+        <path id="Path_23" data-name="Path 23" d="M149.153,126.5v12.59l6.3-6.3Z" transform="translate(-149.153 -126.5)" fill="#ccc"/>
+      </g>
+      <g id="Group_15" data-name="Group 15" transform="translate(0)">
+        <rect id="Rectangle_6" data-name="Rectangle 6" width="8.903" height="8.903" transform="matrix(0.707, -0.707, 0.707, 0.707, 18.885, 44.066)" fill="#0a76a5"/>
+        <path id="Path_24" data-name="Path 24" d="M174.333,136.68l6.3-6.3-6.3-6.3-6.3-6.3-6.3,6.3-6.3-6.3-6.3-6.3v12.59h0l6.3,6.3-6.3,6.3,6.3,6.3,6.3-6.3,6.3-6.3Z" transform="translate(-149.153 -111.5)" fill="#0a76a5"/>
+      </g>
+      <path id="Path_25" data-name="Path 25" d="M149.153,126.5h0Z" transform="translate(-149.153 -113.91)"/>
+    </g>
+    <g id="Group_18" data-name="Group 18" transform="translate(18.885)">
+      <g id="Group_17" data-name="Group 17" transform="translate(6.295 12.59)">
+        <path id="Path_26" data-name="Path 26" d="M185.448,134l-6.3,6.3,6.3,6.3-6.3,6.3,6.3,6.3,6.3-6.3,6.3-6.3-6.3-6.3Z" transform="translate(-179.153 -127.705)" fill="#e6e6e6"/>
+        <path id="Path_27" data-name="Path 27" d="M201.653,132.8l6.3,6.3V126.5Z" transform="translate(-182.768 -126.5)" fill="#e6e6e6"/>
+      </g>
+      <path id="Path_28" data-name="Path 28" d="M203.128,111.5l-6.3,6.3-6.3,6.3-6.3-6.3-6.3-6.3-6.3,6.3,6.3,6.3,6.3,6.3,6.3,6.3,6.3,6.3,6.3-6.3-6.3-6.3,6.3-6.3Z" transform="translate(-171.653 -111.5)" fill="#1795c1"/>
+    </g>
+  </g>
+</svg>

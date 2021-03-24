@@ -1,0 +1,19 @@
+@font-face {
+	font-display: swap;
+	font-family: 'Circular STD';
+	font-style: normal;
+	font-weight: bold;
+	src: local('Circular Bold'), local('Circular STD Bold'), local('Circular-Bold'), local('Circular-STD-Bold'),
+			url('../fonts/circularbold.woff2') format('woff2'),
+			url('../fonts/circularbold.woff') format('woff');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 300;
+	src: local('Roboto Light'), local('Roboto-Light'),
+			url('../fonts/robotolight.woff2') format('woff2'),
+			url('../fonts/robotolight.woff') format('woff');
+}

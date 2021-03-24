@@ -1,0 +1,49 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+:focus {
+	outline-color: $colorLink;
+	outline-style: dotted;
+	outline-width: 1px;
+}
+
+body {
+	background: #FFF;
+	color: $colorText;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	margin: 0;
+	min-width: $siteMinWidth;
+}
+
+a {
+	color: $colorLink;
+	text-decoration: none;
+	position: relative;
+
+	&::after {
+		background: $colorLink;
+		bottom: -2px;
+		content: "";
+		height: 2px;
+		left: 50%;
+		position: absolute;
+		transform: translateX(-50%);
+		transition: width .3s ease-out;
+		width: 0;
+	}
+
+	&:hover::after {
+		width: 100%;
+	}
+}
+
+img {
+	border: 0;
+	display: block;
+	height: auto;
+	max-width: 100%;
+}
