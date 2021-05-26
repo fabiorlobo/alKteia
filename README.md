@@ -1,8 +1,8 @@
 # alKteia
 
-The alKteia (alcateia, which means wolf pack) is about a lone wolf.
+The alKteia (alcateia, portuguese for wolf pack) is a lone wolf.
 
-My name is Fabio Resende (reznd) Lobo (portuguese for wolf – yeah, that's my real name), and I am a web designer and front-end developer, but I started as a blogger.
+My name is Fabio Resende (reznd) Lobo (portuguese for wolf – yeah, that's my real name) and I am a web designer, front-end developer... and a blogger..
 
 I hope you like my work (and give me moneys for it, of course). Let me know if you need anything!
 
